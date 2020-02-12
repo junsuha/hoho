@@ -1,0 +1,8 @@
+git status : 상태확인
+git remote add 이름 (저장소 URL) : 저장소 URL 설정하기
+git remote -v : 저장소 확인
+git remote remove : 저장소 삭제
+git add (파일이름) : 수정된 파일을 저장소에 올릴 준비
+git commit -m "커밋 내용" : add한 수정된 파일을 저장소에 올릴 것을 확정
+git push origin master : 저장소에 반영하기
+git pull origin master : 저장소 내용 불러오기
